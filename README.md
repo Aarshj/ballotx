@@ -32,7 +32,7 @@
 
 2. Clone the repository by using the command
         
-        git clone https://github.com/Aarshj/ballotx.git
+        git clone https://github.com/Aarshj/BallotX.git
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
